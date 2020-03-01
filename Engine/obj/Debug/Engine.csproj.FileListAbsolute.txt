@@ -1,0 +1,5 @@
+C:\Users\quake\source\repos\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\quake\source\repos\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\quake\source\repos\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\quake\source\repos\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\quake\source\repos\SuperAdventure\Engine\obj\Debug\Engine.pdb
